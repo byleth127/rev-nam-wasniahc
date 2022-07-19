@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/rev-nam-wasniahc/static/ee49933c7ff5fdd35823321a7f60a94c/thumbnail_1-600-900.pbew","relativePath":"Rev 010/thumbnail_1-600-900.pbew","name":"thumbnail_1-600-900"}},{"node":{"publicURL":"/rev-nam-wasniahc/static/459ae1b2cbb5ee305d0e22b2daded5ce/thumbnail_1-600-900.pbew","relativePath":"Rev 100/thumbnail_1-600-900.pbew","name":"thumbnail_1-600-900"}},{"node":{"publicURL":"/rev-nam-wasniahc/static/0a0d1dff986ef97b051d82b3f0002fde/thumbnail_1-600-900.pbew","relativePath":"Rev 110/thumbnail_1-600-900.pbew","name":"thumbnail_1-600-900"}},{"node":{"publicURL":"/rev-nam-wasniahc/static/0cc89322600acf65386c15055ca903b2/thumbnail_1-600-900.pbew","relativePath":"Rev 200/thumbnail_1-600-900.pbew","name":"thumbnail_1-600-900"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
